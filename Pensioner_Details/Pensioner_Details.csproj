@@ -19,6 +19,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="details.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="PensionManagementConfig.yaml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
