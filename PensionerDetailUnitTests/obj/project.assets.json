@@ -6145,11 +6145,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionerDetailUnitTests\\PensionerDetailUnitTests.csproj",
+      "projectUniqueName": "E:\\Cognizant Post Joining\\MFPE\\PensionDetailAPI\\PensionerDetailUnitTests\\PensionerDetailUnitTests.csproj",
       "projectName": "PensionerDetailUnitTests",
-      "projectPath": "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionerDetailUnitTests\\PensionerDetailUnitTests.csproj",
+      "projectPath": "E:\\Cognizant Post Joining\\MFPE\\PensionDetailAPI\\PensionerDetailUnitTests\\PensionerDetailUnitTests.csproj",
       "packagesPath": "C:\\Users\\DIPIKA\\.nuget\\packages\\",
-      "outputPath": "E:\\Cognizant Post Joining\\MFPE-Backup\\PensionerDetailUnitTests\\obj\\",
+      "outputPath": "E:\\Cognizant Post Joining\\MFPE\\PensionDetailAPI\\PensionerDetailUnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DIPIKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6165,8 +6165,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Cognizant Post Joining\\MFPE-Backup\\Pensioner_Details\\Pensioner_Details.csproj": {
-              "projectPath": "E:\\Cognizant Post Joining\\MFPE-Backup\\Pensioner_Details\\Pensioner_Details.csproj"
+            "E:\\Cognizant Post Joining\\MFPE\\PensionDetailAPI\\Pensioner_Details\\Pensioner_Details.csproj": {
+              "projectPath": "E:\\Cognizant Post Joining\\MFPE\\PensionDetailAPI\\Pensioner_Details\\Pensioner_Details.csproj"
             }
           }
         }
